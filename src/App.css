@@ -132,7 +132,7 @@ font-family: "Times New Roman", Times, serif;
 }
 
 
-.livro1, .livro2, .livro3, .livro4,.livro5, .livro6 p{
+.livro1, .livro2, .livro3, .livro4,.livro5, .livro6{
 margin-top: 30px;
 border: 2px solid black;
 }
