@@ -91,25 +91,25 @@ function Comunidade() {
       <div className="projetos">
       <h2>Projetos da Comunidade</h2>
 
-      <div className="container-comunidade">
+      
       <div className="comunidade1">
         <img src={Comunidade1} />
-        <p>Ana Laura - 7 anos/ MG</p>
+  
 
         <div className="comunidade2">
           <img src={Comunidade2} />
-          <p>Dandara 8 anos / MG</p>
+         
         </div>
 
         <div className="comunidade3">
           <img src={Comunidade3}/>
-          <p>Vitória 12 anos / MG</p>
+         
         </div>
       </div>
 
       </div>
     </div>
-    </div>
+    
   );
 }
 
