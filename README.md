@@ -1,3 +1,5 @@
+Em 2021 eu e um amigo criamos um projeto para um edital de cultura, e o projeto teria como tempa principal a representatividade preta infantil. Infelizmente o projeto não foi contemplado. Então, decidi criar meu primeiro com react através do projeto cultural que já tinha a parte escrita. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
