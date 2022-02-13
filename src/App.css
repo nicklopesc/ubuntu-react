@@ -5,7 +5,7 @@
   margin: 0;
   padding: 0;
 }
-
+/**/
 .center {
   max-width: 960px;
   margin: 0 auto;
@@ -32,6 +32,7 @@
   font-size: 60px;
 }
 
+/*Menu de Navegação*/
 .item-menu a {
   margin-right: 10px;
   color: white;
@@ -50,6 +51,7 @@
   margin-left: 10px;
 }
 
+/*Cabeçalho da página*/
 .principal-1 {
   font-size: 20px;
   font-family: "Times New Roman", Times, serif;
@@ -69,6 +71,7 @@
   margin-top: 40px;
 }
 
+/*Citação*/
 .citacao {
   margin-top: 40px;
   display: inline-block;
@@ -79,6 +82,7 @@
   margin-right: 40px;
 }
 
+/*Home: Nome das abas de navegação e explicação */
 .espacos {
   margin-top: 40px;
   font-size: 20px;
@@ -106,6 +110,7 @@
   margin-right: 15px;
 }
 
+/*Home Footer*/
 .desenvolvido {
   background-color: gray;
   color: white;
@@ -113,6 +118,8 @@
   font-family: "Times New Roman", Times, serif;
 }
 
+/*Menu de Navegação*/
+/*Literatura*/
 .literatura{
 font-family: "Times New Roman", Times, serif;
 
@@ -131,7 +138,7 @@ font-family: "Times New Roman", Times, serif;
   font-size: 40px;
 }
 
-
+/*Livros*/
 .livro1, .livro2, .livro3, .livro4,.livro5, .livro6{
 margin-top: 30px;
 border: 2px solid black;
