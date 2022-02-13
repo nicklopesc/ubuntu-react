@@ -5,7 +5,7 @@
   margin: 0;
   padding: 0;
 }
-/**/
+/*Home*/
 .center {
   max-width: 960px;
   margin: 0 auto;
@@ -32,7 +32,7 @@
   font-size: 60px;
 }
 
-/*Menu de Navegação*/
+/*Home: Menu de Navegação*/
 .item-menu a {
   margin-right: 10px;
   color: white;
@@ -51,7 +51,7 @@
   margin-left: 10px;
 }
 
-/*Cabeçalho da página*/
+/*Home: Cabeçalho da página*/
 .principal-1 {
   font-size: 20px;
   font-family: "Times New Roman", Times, serif;
@@ -138,17 +138,18 @@ font-family: "Times New Roman", Times, serif;
   font-size: 40px;
 }
 
-/*Livros*/
+/*Literatura: Livros*/
 .livro1, .livro2, .livro3, .livro4,.livro5, .livro6{
 margin-top: 30px;
 border: 2px solid black;
 }
 
-
+/*Literatura: Dia do conto*/
 .conto{
   margin-top: 30px;
 }
 
+/*Menu de navegação: Comunidade*/
 .comunidade h2{
   padding: 35px 0;
   width: 100%;
@@ -171,6 +172,8 @@ border: 2px solid black;
   margin-top: 15px;
 }
 
+/*Literatura: Formulário*/
+/*Comunidade: Formulário*/
 .formulario, .formulario-comunidade{
   margin-top: 30px;
   color: black black;
@@ -201,6 +204,7 @@ border: 2px solid black;
   margin-bottom: 30px;
 }
 
+/*Comunidade: parte 2 - Projetos da Comunidade*/
 .projetos h2{
   margin-top: 30px;
   padding: 35px 0;
@@ -228,6 +232,8 @@ margin-left:20px
   margin-top: 15px;
 }
 
+/*Menu de navegação: Musical*/
+/*Musical: Vídeos*/
 .videos h2{
   padding: 35px 0;
   width: 100%;
